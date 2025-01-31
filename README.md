@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- ⚡ Fun fact **: typing is therapeutic to me**
+- ⚡ Fun fact: **Typing is therapeutic to me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
